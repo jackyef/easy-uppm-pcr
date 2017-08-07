@@ -1,0 +1,801 @@
+[{
+    "name": "Muhammad Ihsan Zul, S.Pd., M.Eng.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MIZ_20141223092849.jpg\"",
+    "initial": "MIZ",
+    "nip": "138703",
+    "nidn": "1027018702",
+    "email": "ihsan@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Arif Gunawan, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/AGN.jpg\"",
+    "initial": "AGN",
+    "nip": "068110",
+    "nidn": "1008058101",
+    "email": "agun@pcr.ac.id",
+    "prodi": "Teknik Listrik",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Satria Perdana Arifin, S.T., M.T.I",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/SPA.jpg\"",
+    "initial": "SPA",
+    "nip": "118402",
+    "nidn": "1004088404",
+    "email": "satria@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Jupri Yanda Zaira, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/JUP.jpg\"",
+    "initial": "JUP",
+    "nip": "078321",
+    "nidn": "1020048303",
+    "email": "jupri@pcr.ac.id",
+    "prodi": "Teknik Mesin",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Retno Tri Wahyuni, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/RTW.jpg\"",
+    "initial": "RTW",
+    "nip": "068314",
+    "nidn": "1015038301",
+    "email": "retnotri@pcr.ac.id",
+    "prodi": "Teknik Elektronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Heri Ribut Yuliantoro, S.E., M.Ak., Akt., CA.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/HRY.jpg\"",
+    "initial": "HRY",
+    "nip": "048114",
+    "nidn": "1010068101",
+    "email": "heriry@pcr.ac.id",
+    "prodi": "Akuntansi",
+    "jurusan": "Akuntansi"
+  },
+  {
+    "name": "Nur Khamdi, S.Si., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/NHD.jpg\"",
+    "initial": "NHD",
+    "nip": "007511",
+    "nidn": "1015117502",
+    "email": "khamdi@pcr.ac.id",
+    "prodi": "Teknik Mekatronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Mochammad Susantok, S.S.T., M.T ",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/STK.jpg\"",
+    "initial": "STK",
+    "nip": "018015",
+    "nidn": "1021038001",
+    "email": "santok@pcr.ac.id",
+    "prodi": "Teknik Elektronika Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Rizki Dian Rahayani, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/UKI_20150122081719.jpg\"",
+    "initial": "UKI",
+    "nip": "058002",
+    "nidn": "1021108001",
+    "email": "uki@pcr.ac.id",
+    "prodi": "Teknik Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Memen Akbar, S.Si., M. T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MMN.jpg\"",
+    "initial": "MMN",
+    "nip": "078313",
+    "nidn": "1015098302",
+    "email": "memen@pcr.ac.id",
+    "prodi": "Teknik Komputer",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Yusmar Palapa Wijaya, S.Si., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/YPP.jpg\"",
+    "initial": "YPP",
+    "nip": "027608",
+    "nidn": "1009077601",
+    "email": "yusmar@pcr.ac.id",
+    "prodi": "Teknik Elektronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Ardianto Wibowo, S.Kom., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ARW.jpg\"",
+    "initial": "ARW",
+    "nip": "078517",
+    "nidn": "1008068501",
+    "email": "ardie@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Hamid Azwar, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/HAZ.jpg\"",
+    "initial": "HAZ",
+    "nip": "088309",
+    "nidn": "1017118301",
+    "email": "hamid@pcr.ac.id",
+    "prodi": "Teknik Elektronika Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Luqman Hakim, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/LQM.jpg\"",
+    "initial": "LQM",
+    "nip": "068312",
+    "nidn": "1020128301",
+    "email": "luqman@pcr.ac.id",
+    "prodi": "Teknik Listrik",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Tobi Arfan, S.E., M.Ak",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/TAF.jpg\"",
+    "initial": "TAF",
+    "nip": "058404",
+    "nidn": "1003118401",
+    "email": "tobi@pcr.ac.id",
+    "prodi": "Akuntansi",
+    "jurusan": "Akuntansi"
+  },
+  {
+    "name": "Anggy Trisnadoli, S.S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ATD.jpg\"",
+    "initial": "ATD",
+    "nip": "128906",
+    "nidn": "1024088902",
+    "email": "anggy@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Amnur Akhyan, S.ST., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/AMN.jpg\"",
+    "initial": "AMN",
+    "nip": "007803",
+    "nidn": "1025017803",
+    "email": "akhyan@pcr.ac.id",
+    "prodi": "Teknik Mesin",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Rika Perdana Sari, S.T., M.Eng",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/RPS_20150119083814.jpg\"",
+    "initial": "RPS",
+    "nip": "098202",
+    "nidn": "1016098203",
+    "email": "rika@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Istianah Muslim, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ISM.jpg\"",
+    "initial": "ISM",
+    "nip": "148908",
+    "nidn": "1020018901",
+    "email": "istianah@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Yefni, S.E., M.Acc.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/YEF.jpg\"",
+    "initial": "YEF",
+    "nip": "098604",
+    "nidn": "1020078603",
+    "email": "yefni@pcr.ac.id",
+    "prodi": "Akuntansi",
+    "jurusan": "Akuntansi"
+  },
+  {
+    "name": "Juni Nurma Sari, S.Kom, M.MT",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/JNS.jpg\"",
+    "initial": "JNS",
+    "nip": "017218",
+    "nidn": "1024067201",
+    "email": "juni@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Muhammad Diono, S.S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MDO.jpg\"",
+    "initial": "MDO",
+    "nip": "128808",
+    "nidn": "1004078801",
+    "email": "diono@pcr.ac.id",
+    "prodi": "Teknik Elektronika Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Elva Susianti, S.S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ELS.jpg\"",
+    "initial": "ELS",
+    "nip": "007605",
+    "nidn": "1027087605",
+    "email": "elva@pcr.ac.id",
+    "prodi": "Teknik Elektronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Yuli Fitrisia, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ULI.jpg\"",
+    "initial": "ULI",
+    "nip": "088503",
+    "nidn": "1027078501",
+    "email": "uli@pcr.ac.id",
+    "prodi": "Teknik Komputer",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Noptin Harpawi, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/NOP.jpg\"",
+    "initial": "NOP",
+    "nip": "118303",
+    "nidn": "1010118301",
+    "email": "noptin@pcr.ac.id",
+    "prodi": "Teknik Elektronika Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Sugeng Purwantoro E.S.G.S, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/SGP_20160108082014.jpg\"",
+    "initial": "SGP",
+    "nip": "027710",
+    "nidn": "1024057701",
+    "email": "sugeng@pcr.ac.id",
+    "prodi": "Teknik Komputer",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Kartina Diah Kusuma Wardhani, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/DYH.jpg\"",
+    "initial": "DYH",
+    "nip": "078310",
+    "nidn": "1020048301",
+    "email": "diah@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Erwin Setyo Nugroho, S.T., M.Eng",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ESN.jpg\"",
+    "initial": "ESN",
+    "nip": "027614",
+    "nidn": "1006127601",
+    "email": "erwinsn@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Meilany Dewi, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MEL_20150128114811.jpg\"",
+    "initial": "MEL",
+    "nip": "048009",
+    "nidn": "1021058001",
+    "email": "meilany@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Maksum Rois Adin Saf, S.Kom., M.Eng.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MRA_20150204025729.jpg\"",
+    "initial": "MRA",
+    "nip": "158803",
+    "nidn": "1015108803",
+    "email": "maksum@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Yohana Dewi Lulu Widyasari, S.Si., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/YDL.jpg\"",
+    "initial": "YDL",
+    "nip": "007717",
+    "nidn": "1025097702",
+    "email": "yohana@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Emansa Hasri Putra, S.T., M.Eng",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/EHP.jpg\"",
+    "initial": "EHP",
+    "nip": "017501",
+    "nidn": "1026047501",
+    "email": "emansa@pcr.ac.id",
+    "prodi": "Teknik Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Mardhiah Fadli, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MDF.jpg\"",
+    "initial": "MDF",
+    "nip": "078306",
+    "nidn": "1001078301",
+    "email": "mardhiah@pcr.ac.id",
+    "prodi": "Teknik Komputer",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Wawan Yunanto, S.Kom., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/WWN.jpg\"",
+    "initial": "WWN",
+    "nip": "037802",
+    "nidn": "1019067801",
+    "email": "wawan@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Indah Lestari, S.S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/IDI.jpg\"",
+    "initial": "IDI",
+    "nip": "129007",
+    "nidn": "1008099001",
+    "email": "indah@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Muhammad Arif Fadhly Ridha, S.Kom., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MAF.jpg\"",
+    "initial": "MAF",
+    "nip": "138701",
+    "nidn": "0306048701",
+    "email": "fadhly@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Atika Zarefar, S.E., M.Ak., Ak.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ATZ_20150907093927.jpg\"",
+    "initial": "ATZ",
+    "nip": "158926",
+    "nidn": "1028098902",
+    "email": "atika@pcr.ac.id",
+    "prodi": "Akuntansi",
+    "jurusan": "Akuntansi"
+  },
+  {
+    "name": "Yoanda Alim Syahbana, S.T., M.Sc.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/YAS.jpg\"",
+    "initial": "YAS",
+    "nip": "148809",
+    "nidn": "1011068801",
+    "email": "yoanda@pcr.ac.id",
+    "prodi": "Teknik Komputer",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Heni Rachmawati, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/HNI_20150112022020.jpg\"",
+    "initial": "HNI",
+    "nip": "078202",
+    "nidn": "1023098202",
+    "email": "henni@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Wiwin Styorini, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/WIN.jpg\"",
+    "initial": "WIN",
+    "nip": "088211",
+    "nidn": "1002038202",
+    "email": "wiwin@pcr.ac.id",
+    "prodi": "Teknik Elektronika Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Syahrizal, S.T, M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ZAL.jpg\"",
+    "initial": "ZAL",
+    "nip": "027511",
+    "nidn": "1021017501",
+    "email": "ijal@pcr.ac.id",
+    "prodi": "Teknik Listrik",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Dr. Hendri Novia Syamsir, S.T., M.Eng.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/HDN_20151218121553.jpg\"",
+    "initial": "HDN",
+    "nip": "157001",
+    "nidn": "1008117003",
+    "email": "hendri@pcr.ac.id",
+    "prodi": "Teknik Elektronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Wahyuni Khabzli, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/AYU.jpg\"",
+    "initial": "AYU",
+    "nip": "098403",
+    "nidn": "1003058401",
+    "email": "ayu@pcr.ac.id",
+    "prodi": "Teknik Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Agus Urip Ari Wibowo, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/AUA.jpg\"",
+    "initial": "AUA",
+    "nip": "007001",
+    "nidn": "1007087001",
+    "email": "agus@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Rizadi Sasmita Darwis, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/RSD_20150925013620.jpg\"",
+    "initial": "RSD",
+    "nip": "158810",
+    "nidn": "1010048802",
+    "email": "rizadi@pcr.ac.id",
+    "prodi": "Teknik Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Agus Wijianto, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/AGS.jpg\"",
+    "initial": "AGS",
+    "nip": "047812",
+    "nidn": "1023087801",
+    "email": "aguswiji@pcr.ac.id",
+    "prodi": "Teknik Mesin",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Dadang Syarif Sihabudin Sahid, S.Si., M.Sc",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/DDS.jpg\"",
+    "initial": "DDS",
+    "nip": "007504",
+    "nidn": "1005057501",
+    "email": "dadang@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Heri Subagiyo, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/HSB_20150410091448.jpg\"",
+    "initial": "HSB",
+    "nip": "007508",
+    "nidn": "1003067501",
+    "email": "heri@pcr.ac.id",
+    "prodi": "Teknik Elektronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Jajang Jaenudin, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/JJJ.jpg\"",
+    "initial": "JJJ",
+    "nip": "007509",
+    "nidn": "1007077501",
+    "email": "jajang@pcr.ac.id",
+    "prodi": "Teknik Mekatronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Made Rahmawati, S.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MDR.jpg\"",
+    "initial": "MDR",
+    "nip": "038105 ",
+    "nidn": "9910002554",
+    "email": "made@pcr.ac.id",
+    "prodi": "Teknik Mekatronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Silvana Rasio Henim, S.S.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/SRH.jpg\"",
+    "initial": "SRH",
+    "nip": "068407 ",
+    "nidn": "",
+    "email": "silvana@pcr.ac.id",
+    "prodi": "Teknik Komputer",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Wenda Novayani, S.S.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/WNY.jpg\"",
+    "initial": "WNY",
+    "nip": "078504",
+    "nidn": "",
+    "email": "wenda@pcr.ac.id",
+    "prodi": "Teknik Komputer",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Dini Hidayatul Qudsi, S.S.T., M.I.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/userstaf.jpg\"",
+    "initial": "DHQ",
+    "nip": "159025",
+    "nidn": "1018109001",
+    "email": "dinihq@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Dianita Wardani S.Si., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/userstaf.jpg\"",
+    "initial": "DWD",
+    "nip": "179205",
+    "nidn": "",
+    "email": "dianita@pcr.ac.id",
+    "prodi": "Teknik Mesin",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Ibnu Surya, S.T, M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/ISA.jpg\"",
+    "initial": "ISA",
+    "nip": "078303",
+    "nidn": "1028108301",
+    "email": "ibnu@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Baitul Atiq, S.Pd., M.Si",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/userstaf.jpg\"",
+    "initial": "BTQ",
+    "nip": "160001",
+    "nidn": "1026068005",
+    "email": "baitul@pcr.ac.id",
+    "prodi": "Akuntansi",
+    "jurusan": "Akuntansi"
+  },
+  {
+    "name": "Zainal Arifin Renaldo, S.S., M.Hum.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/JAY.jpg\"",
+    "initial": "JAY",
+    "nip": "098605",
+    "nidn": "1023118603",
+    "email": "zainal@pcr.ac.id",
+    "prodi": "Teknik Mesin",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Cyntia Widiasari, S.S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/CYN.jpg\"",
+    "initial": "CYN",
+    "nip": "078519",
+    "nidn": "1008028501",
+    "email": "cyntia@pcr.ac.id",
+    "prodi": "Teknik Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Rahmat Suhatman, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/RMT.jpg\"",
+    "initial": "RMT",
+    "nip": "048110",
+    "nidn": "1030068101",
+    "email": "rahmat@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Mona Elviyenti, S.Si., M.Si.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/userstaf.jpg\"",
+    "initial": "MNA",
+    "nip": "160002",
+    "nidn": "1031128405",
+    "email": "mona@pcr.ac.id",
+    "prodi": "Teknik Elektronika Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Ananda, S.Kom., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/AND.jpg\"",
+    "initial": "AND",
+    "nip": "108501",
+    "nidn": "1009028502",
+    "email": "ananda@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Zulhafizh, S.Pd., M.Pd.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/userstaf.jpg\"",
+    "initial": "ZHF",
+    "nip": "160006",
+    "nidn": "1002038901",
+    "email": "zulhafizh@pcr.ac.id",
+    "prodi": "Teknik Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Roni Novison, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/userstaf.jpg\"",
+    "initial": "RNS",
+    "nip": "178506",
+    "nidn": "",
+    "email": "roni@pcr.ac.id",
+    "prodi": "Teknik Mesin",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Shumaya Resty Ramadhani, S.S.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/SRR_20150303030514.jpg\"",
+    "initial": "SRR",
+    "nip": "159208",
+    "nidn": "",
+    "email": "shumaya@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Muzni Sahar, S.ST",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MUZ.jpg\"",
+    "initial": "MUZ",
+    "nip": "068205",
+    "nidn": "9910005990",
+    "email": "muzni@pcr.ac.id",
+    "prodi": "Teknik Listrik",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Dini Nurmalasari, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/DNS.jpg\"",
+    "initial": "DNS",
+    "nip": "048108",
+    "nidn": "1019058101",
+    "email": "dini@pcr.ac.id",
+    "prodi": "Teknik Komputer",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Rais Siswanto, S.H., M.H.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/userstaf.jpg\"",
+    "initial": "RSW",
+    "nip": "160005",
+    "nidn": "1023048102",
+    "email": "rais@pcr.ac.id",
+    "prodi": "Teknik Listrik",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Warnia Nengsih, S.Kom., M.Kom",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/WNS.jpg\"",
+    "initial": "WNS",
+    "nip": "088210",
+    "nidn": "1024118205",
+    "email": "warnia@pcr.ac.id",
+    "prodi": "Sistem Informasi",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Suci Ramadona, S.S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/SCR_20170111073629.jpg\"",
+    "initial": "SCR",
+    "nip": "160003",
+    "nidn": "1007049001",
+    "email": "suci.ramadona@pcr.ac.id",
+    "prodi": "Teknik Listrik",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Tianur, S.S.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/TNR.jpg\"",
+    "initial": "TNR",
+    "nip": "048101",
+    "nidn": "9910003819",
+    "email": "tian@pcr.ac.id",
+    "prodi": "Teknik Elektronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Mohammad Yanuar Hariyawan, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MYH_20141221103341.jpg\"",
+    "initial": "MYH",
+    "nip": "007610",
+    "nidn": "1001017601",
+    "email": "yanuar@pcr.ac.id",
+    "prodi": "Teknik Elektronika Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Syefrida Yulina, S.T., M.Sc",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/SFY.jpg\"",
+    "initial": "SFY",
+    "nip": "148511",
+    "nidn": "1020098503",
+    "email": "syefrida@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Siska Novita Posma, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/SNP.jpg\"",
+    "initial": "SNP",
+    "nip": "087407",
+    "nidn": "1013117401",
+    "email": "siska@pcr.ac.id",
+    "prodi": "Teknik Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Putri Madona, S.ST., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MDN.jpg\"",
+    "initial": "MDN",
+    "nip": "017916",
+    "nidn": "1011027901",
+    "email": "dhona@pcr.ac.id",
+    "prodi": "Teknik Elektronika",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Wira Indani, S.T., M.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/WRI_20170720114251.jpg\"",
+    "initial": "WRI",
+    "nip": "160004",
+    "nidn": "1001108704",
+    "email": "wira@pcr.ac.id",
+    "prodi": "Teknik Listrik",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Mustaza Maa, S.T., M.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/MTZ.jpg\"",
+    "initial": "MTZ",
+    "nip": "017611 ",
+    "nidn": "1005057601",
+    "email": "mustaza@pcr.ac.id",
+    "prodi": "Teknik Mesin",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Yuli Triani, S.S.T",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/YUL.jpg\"",
+    "initial": "YUL",
+    "nip": "068206 ",
+    "nidn": "",
+    "email": "yuli@pcr.ac.id",
+    "prodi": "Teknik Elektronika Telekomunikasi",
+    "jurusan": "Elektro"
+  },
+  {
+    "name": "Hamdani Arifulsyah, S.E., M.Ak.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/HMD_20150210085922.jpg\"",
+    "initial": "HMD",
+    "nip": "088302",
+    "nidn": "1023038301",
+    "email": "dani@pcr.ac.id",
+    "prodi": "Akuntansi",
+    "jurusan": "Akuntansi"
+  },
+  {
+    "name": "Jan Alif Kreshna, S.S.T.",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/JAK_20150303084341.jpg\"",
+    "initial": "JAK",
+    "nip": "159007",
+    "nidn": "",
+    "email": "janalif@pcr.ac.id",
+    "prodi": "Teknik Informatika",
+    "jurusan": "Komputer"
+  },
+  {
+    "name": "Suci Nurulita, S.E., M.Si",
+    "img": "https://uppm.pcr.ac.id/resources/images/foto-small/SCN_20161102032131.jpg\"",
+    "initial": "SCN",
+    "nip": "158802",
+    "nidn": "1016038803",
+    "email": "suci@pcr.ac.id",
+    "prodi": "Akuntansi",
+    "jurusan": "Akuntansi"
+  }
+]

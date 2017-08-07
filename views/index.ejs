@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -14,6 +14,7 @@
   <!-- Bootstrap Core CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.dataTables.min.css" rel="stylesheet">
 
   <!-- Custom CSS -->
   <style>
@@ -61,7 +62,7 @@
   </nav>
 
   <!-- Page Content -->
-  <div class="container">
+  <div class="container-fluid">
     <h2>
       Easy UPPM 
       <small><i>- stop tanya NIP dosen di group chat</i></small>
@@ -69,7 +70,7 @@
     <hr/>
     <div class="row">
       <div class="col-xs-12">
-        <table class="table" id="table-uppm">
+        <table class="table table-responsive" id="table-uppm">
           <thead>
             <tr>
               <th>Nama</th>
@@ -120,9 +121,12 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.1.1/js/dataTables.responsive.min.js"></script>
   <script>
       $(document).ready(function() {
-        $('#table-uppm').DataTable();
+        $('#table-uppm').DataTable({
+          responsive: true,
+        });
       });
   </script>
 </body>
